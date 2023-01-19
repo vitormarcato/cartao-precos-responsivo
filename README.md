@@ -1,4 +1,5 @@
-# cartao-precos-responsivo
+# Cartao de Precos Responsivo
+
 Página web com layout responsivo para diversos dispositivos utilizando HTML5 e CSS3
 Aplicando os principais conceitos:
 - Mobile first
@@ -14,11 +15,20 @@ Aplicando os principais conceitos:
 
 <div align="center">
   <h1>Desktop</h1>
-<img src="https://user-images.githubusercontent.com/60930603/158855470-a718946e-3216-4f8c-9d7e-82973b70d81c.png" width="700px">
+<img src="https://user-images.githubusercontent.com/60930603/158855470-a718946e-3216-4f8c-9d7e-82973b70d81c.png#vitrinedev" width="700px">
 </div>
 
 <div align="center">
   <h1>Tablet</h1>
 <img src="https://user-images.githubusercontent.com/60930603/158858695-593bcb17-9eaa-4077-8425-88edd166a62d.png" height="700px">
 </div>
+
+# VitrineDev - Alura
+---
+| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/vitormarcato     |
+| -------------  | --- |
+| :sparkles: Nome        | Cartão de Preços Responsivo
+| :label: Tecnologias | html, css
+<!--| :rocket: URL         | https://url-deploy.com.br
+| :fire: Desafio     | https://url-do-desafio.com.br -->
 
